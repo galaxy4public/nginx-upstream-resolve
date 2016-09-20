@@ -1,8 +1,8 @@
 nginx-upstream-resolve
 ======================
 
-A patch to core nginx upstream module to allow the dynamic resolution of
-the upstream servers.
+A patch to the http nginx upstream module to allow the dynamic resolution
+of the upstream servers.
 
 One of the missing features that is available via the commercial
 subscription of nginx is the ability to dynamically resolve the
@@ -13,7 +13,7 @@ documentation uses.  This ensures that if time comes to use the
 commercial subscription no configuration changes will be required.
 
 This work was sponsored by [Openwall Pty Ltd](http://openwall.com.au)
-and [Data Solutions Group Pty Ltd](https://www.data-solutions.com.au).
+and [Data Solutions Group Pty Ltd](http://www.data-solutions.com.au).
 
 Repository structure
 --------------------

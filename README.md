@@ -1,3 +1,6 @@
+> **NOTE: This repository is no longer maintained since there is a better approach on how to achieve the same without even touching nginx'es codebase, see [nginx + a backend with a dynamic IP](http://dmitry.khlebnikov.net/2017/01/nginx-backend-with-dynamic-ip-eg-aws-elb.html)**
+***
+
 nginx-upstream-resolve
 ======================
 
